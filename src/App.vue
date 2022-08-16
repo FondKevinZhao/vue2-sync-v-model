@@ -32,19 +32,4 @@ export default {
 }
 </script>
 
-<style>
-ul,
-li {
-  list-style: none;
-  padding: 0;
-}
-.router-link-exact-active {
-  background-color: green;
-  color: white;
-  padding: 3px;
-}
-.router-link-active {
-  background-color: green;
-  color: white;
-}
-</style>
+<style></style>
